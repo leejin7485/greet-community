@@ -11,5 +11,7 @@ python -m pip install -e .
 ## Use
 
 ```bash
-python -c "from greet_community import greet; print(greet('world'))"
+python -c "from greet_community import greet; print(greet('Hee'))"
 ```
+
+Hello, Hee!
